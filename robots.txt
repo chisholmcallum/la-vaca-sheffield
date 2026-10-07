@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://la-vaca-sheffield.chisholmcallum.chatgpt.site/sitemap.xml
